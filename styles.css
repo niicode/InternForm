@@ -1,0 +1,72 @@
+.container {
+    width: 80%;
+    background-color: azure;
+    text-align: center;
+    /* margin-left: 9%; */
+    padding: auto;
+    margin: auto;
+}
+
+h4 {
+    margin-left: -67%;
+}
+
+.heading {
+    color: #5050ff;
+    font-weight: 700;
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.personal_info {
+    width: 70%;
+    margin-bottom: 2%;
+    margin-left: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info_2 {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 3.5%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+input[type=text] {
+    width: 20%;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+input[type=email] {
+    width: 20%;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+input[type=date] {
+    width: 20%;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.select {
+    width: 100%;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+}
